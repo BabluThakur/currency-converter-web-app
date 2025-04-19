@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    background-color: bisque;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20220512/pngtree-growing-chart-against-the-background-of-the-usa-america-flag-candlestick-image_1298783.jpg");
+}
+
+.container{
+    padding:2rem;
+    border-radius:1rem;
+    min-height: 45vh;
+    width:40vh;
+    background-color: white;
+
+}
+
+form{
+    margin:2rem 0 1rem 0;
+}
+
+form select,button,input{
+    width:100%;
+    border:none;
+    outline:none;
+    border-radius:0.75rem;
+}
+form input{
+    border:1px solid lightgray;
+    font-size: 1rem;
+    height:2rem;
+    padding-left: 1rem;
+}
+
+h2{
+    text-align: center;
+}
+
+.dropdown{
+    display:flex;
+    justify-content: space-between;
+    align-item:center;
+    margin-top:2rem;
+
+}
+
+.from-container img{
+    max-width: 2rem;
+}
+
+.from-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:6rem;
+    border-radius: 0.5rem;
+    border:1px solid lightgrey;
+}
+
+.dropdown i{
+font-size:2rem;
+margin:1.3rem;
+}
+
+.msg{
+    margin-top:2rem ;
+    margin-bottom: 2rem;
+    text-align:center;
+}
+
+button{
+    height:2rem;
+    background-color: #af4d98;
+    color:white;
+    cursor: pointer;
+
+}
