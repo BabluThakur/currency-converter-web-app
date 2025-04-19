@@ -30,8 +30,9 @@ A sleek and responsive **Currency Converter** web application built using **HTML
 ---
 
 ### 📸 Preview
+![image](https://github.com/user-attachments/assets/924ad48b-ed28-4129-830f-a3713414db72)
 
-![image](https://github.com/user-attachments/assets/0d3fa03a-8d9f-4a45-9288-28c87ae42f94)
+
 
 ---
 
